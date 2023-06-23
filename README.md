@@ -5,7 +5,7 @@
 - npm install dotenv
 
 ## Installation:
-1. `git clone https://github.com/SDScandrettKint/eleventy_elasticsearch.git elasticsearch` in the _plugins/ directory
+1. `git clone https://github.com/SDScandrettKint/eleventy_elasticsearch.git elasticsearch` in the "_plugins/" directory
 2. `docker-compose up -d` to start elasticsearch
 3. run `node index.js` to create the index and go through content markdown yaml
 
